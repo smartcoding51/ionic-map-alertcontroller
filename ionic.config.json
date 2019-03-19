@@ -1,5 +1,7 @@
 {
   "name": "MyLocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
